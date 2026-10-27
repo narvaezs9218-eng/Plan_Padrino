@@ -1,5 +1,5 @@
 # Plan_Padrino
-Integrantes : Sebastian Narvaez, Andres Rojas, Cristian Clavijo, Micol Franco, Andres Lozano
+Integrantes : Sebastian Narvaez, Andres Rojas, Cristian Clavijo, Maicol Franco, Andres Lozano
 
 # 📚 Estructura de Datos: Pilas y Colas (Stack & Queue)
 
